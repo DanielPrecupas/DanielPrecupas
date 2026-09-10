@@ -26,7 +26,7 @@ I recently completed an MSc in Artificial Intelligence & Distributed Computing, 
 
 ## 🚀 Some things I've built
 
-**[Transformer-based anomaly detection for DeFi** **(MSc thesis)](https://github.com/DanielPrecupas/Transformers-Anomaly-Detection)
+**[Transformer-based anomaly detection for DeFi (MSc thesis)](https://github.com/DanielPrecupas/Transformers-Anomaly-Detection)**
 End-to-end pipeline: blockchain data collection, feature engineering, transaction-order reconstruction, a Transformer model, and evaluation against known MEV attacks.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
