@@ -78,19 +78,10 @@ Where I want to take this next: optimization, dynamic scheduling, graph represen
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-## 📊 GitHub stats
-
-<div align="center">
-<img height="165px" src="https://github-readme-stats.vercel.app/api?username=DanielPrecupas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPrecupas&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
 ## Outside the code
 
 I teach, and genuinely like it. Music, voice acting, and things that sit somewhere between engineering and creative work take up the rest of my time.
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/> <img src="https://media1.tenor.com/m/796hzQFEHqoAAAAC/uy-rick-y-morty.gif" width="250"/> </div>
