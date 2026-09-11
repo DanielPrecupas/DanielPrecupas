@@ -8,7 +8,7 @@
 
 <br>
 
-<a href="https://linkedin.com/in/daniel-mihai-precupaș-77b549268">
+<a href="https://linkedin.com/in/daniel-mihai-precupas">
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
