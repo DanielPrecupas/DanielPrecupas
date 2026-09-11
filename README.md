@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:09090b,45:18181b,100:27272a&text=Daniel%20Precupas&fontColor=f4f4f5&fontSize=48&fontAlignY=42&desc=AI%20%E2%80%A2%20Research%20%E2%80%A2%20Software%20%E2%80%A2%20Things%20I%20find%20interesting&descAlignY=62&descSize=16" />
 
-### `researcher by curiosity · engineer by necessity`
+### `natural overthinker`
 
 **AI systems · computer vision · machine learning · optimization**
 
