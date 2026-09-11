@@ -6,9 +6,6 @@
 
 **AI systems · computer vision · machine learning · optimization**
 
-I like building things somewhere between  
-**research paper → weird idea → working system.**
-
 <br>
 
 <a href="https://linkedin.com/in/daniel-mihai-precupas-77b549268">
