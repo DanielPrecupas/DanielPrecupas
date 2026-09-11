@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:09090b,45:18181b,100:27272a&text=Daniel%20Precupas&fontColor=f4f4f5&fontSize=48&fontAlignY=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=speech&height=200&fontSize=45&color=gradient&text=Daniel%20Precupas&animation=blinking&fontAlign=30,60&fontAlignY=35,55" />
 
 ### `natural overthinker`
 
