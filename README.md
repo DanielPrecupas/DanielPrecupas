@@ -1,12 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Daniel%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:09090b,45:18181b,100:27272a&text=Daniel%20Precupas&fontColor=f4f4f5&fontSize=48&fontAlignY=42&desc=AI%20%E2%80%A2%20Research%20%E2%80%A2%20Software%20%E2%80%A2%20Things%20I%20find%20interesting&descAlignY=62&descSize=16" />
 
-<p><b>AI Systems Developer &amp; Researcher</b> — Machine Learning · Computer Vision · Distributed Systems</p>
+### `researcher by curiosity · engineer by necessity`
 
-<a href="https://linkedin.com/in/daniel-mihai-precupas-77b549268"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:daniel.precupas@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/DanielPrecupas"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+**AI systems · computer vision · machine learning · optimization**
+
+I like building things somewhere between  
+**research paper → weird idea → working system.**
+
+<br>
+
+<a href="https://linkedin.com/in/daniel-mihai-precupas-77b549268">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:daniel.precupas@gmail.com">
+  <img src="https://img.shields.io/badge/mail-111111?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/DanielPrecupas">
+  <img src="https://img.shields.io/badge/github-111111?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<sub>
+M.Sc. Artificial Intelligence & Distributed Computing ·
+incoming Ph.D. researcher ·
+Timișoara, Romania
+</sub>
 
 </div>
 
@@ -84,4 +107,4 @@ I teach, and genuinely like it. Music, voice acting, and things that sit somewhe
 
 ---
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/> <img src="https://media1.tenor.com/m/796hzQFEHqoAAAAC/uy-rick-y-morty.gif" width="250"/> </div>
+<div align="center"> <img src="https://media1.tenor.com/m/796hzQFEHqoAAAAC/uy-rick-y-morty.gif" width="250"/> </div>
