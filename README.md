@@ -46,7 +46,7 @@ RAG pipelines, semantic retrieval, document processing, LLM-powered interfaces. 
 
 ## 📄 Research
 
-Co-author on a paper in ![JMIR Formative Research](https://formative.jmir.org/2026/1/e84296), accepted for presentation at SYNASC for my work on Anomaly Detection.
+Co-author on a paper in **[JMIR Formative Research](https://formative.jmir.org/2026/1/e84296)**, accepted for presentation at SYNASC for my work on Anomaly Detection.
 
 Where I want to take this next: optimization, dynamic scheduling, graph representations, reinforcement learning, metaheuristics.
 
